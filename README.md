@@ -6,16 +6,16 @@
 ### 📊 My Github Stats:
 <br/>
 
-![professorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical) <a href="https://github.com/professorDeveloper"><img 
-alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Dilshodbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilshodbey&show_icons=true&theme=radical) <a href="https://github.com/Dilshodbey"><img 
+alt="Dilshodbey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dracula" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Dilshodbey&theme=dracula" alt="GitHub Ranks" /></a></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilshodbey&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Dilshodbey)
 <br>
 
 
